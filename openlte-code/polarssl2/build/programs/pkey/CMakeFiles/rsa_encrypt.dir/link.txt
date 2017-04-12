@@ -1,0 +1,1 @@
+/usr/bin/cc   -Wall -Wextra -W -Wdeclaration-after-statement -Wwrite-strings -Wlogical-op -Wshadow   CMakeFiles/rsa_encrypt.dir/rsa_encrypt.c.o  -o rsa_encrypt -rdynamic ../../library/libmbedtls.a ../../library/libmbedx509.a ../../library/libmbedcrypto.a 

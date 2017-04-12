@@ -1,0 +1,1 @@
+/usr/bin/cc   -Wall -Wextra -W -Wdeclaration-after-statement -Wwrite-strings -Wlogical-op -Wshadow   CMakeFiles/ssl_pthread_server.dir/ssl_pthread_server.c.o  -o ssl_pthread_server -rdynamic ../../library/libmbedtls.a -lpthread ../../library/libmbedx509.a ../../library/libmbedcrypto.a 

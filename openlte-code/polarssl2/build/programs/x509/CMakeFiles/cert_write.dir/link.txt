@@ -1,0 +1,1 @@
+/usr/bin/cc   -Wall -Wextra -W -Wdeclaration-after-statement -Wwrite-strings -Wlogical-op -Wshadow   CMakeFiles/cert_write.dir/cert_write.c.o  -o cert_write -rdynamic ../../library/libmbedtls.a ../../library/libmbedx509.a ../../library/libmbedcrypto.a 

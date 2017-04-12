@@ -1,0 +1,1 @@
+/usr/bin/cc   -Wall -Wextra -W -Wdeclaration-after-statement -Wwrite-strings -Wlogical-op -Wshadow   CMakeFiles/req_app.dir/req_app.c.o  -o req_app -rdynamic ../../library/libmbedtls.a ../../library/libmbedx509.a ../../library/libmbedcrypto.a 

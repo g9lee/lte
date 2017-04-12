@@ -1,0 +1,1 @@
+/usr/bin/cc   -Wall -Wextra -W -Wdeclaration-after-statement -Wwrite-strings -Wlogical-op -Wshadow   CMakeFiles/gen_entropy.dir/gen_entropy.c.o  -o gen_entropy -rdynamic ../../library/libmbedtls.a ../../library/libmbedx509.a ../../library/libmbedcrypto.a 

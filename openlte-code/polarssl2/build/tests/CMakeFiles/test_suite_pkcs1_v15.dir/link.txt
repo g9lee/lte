@@ -1,0 +1,1 @@
+/usr/bin/cc   -Wall -Wextra -W -Wdeclaration-after-statement -Wwrite-strings -Wlogical-op -Wshadow -Wno-unused-function   CMakeFiles/test_suite_pkcs1_v15.dir/test_suite_pkcs1_v15.c.o  -o test_suite_pkcs1_v15 -rdynamic ../library/libmbedtls.a ../library/libmbedx509.a ../library/libmbedcrypto.a 
